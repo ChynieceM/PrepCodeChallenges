@@ -1,0 +1,15 @@
+C:\Users\Student-18\Documents\GitHub\PrepCodeChallenges\PrepCodeChallenges\obj\Debug\net7.0\PrepCodeChallenges.csproj.AssemblyReference.cache
+C:\Users\Student-18\Documents\GitHub\PrepCodeChallenges\PrepCodeChallenges\obj\Debug\net7.0\PrepCodeChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-18\Documents\GitHub\PrepCodeChallenges\PrepCodeChallenges\obj\Debug\net7.0\PrepCodeChallenges.AssemblyInfoInputs.cache
+C:\Users\Student-18\Documents\GitHub\PrepCodeChallenges\PrepCodeChallenges\obj\Debug\net7.0\PrepCodeChallenges.AssemblyInfo.cs
+C:\Users\Student-18\Documents\GitHub\PrepCodeChallenges\PrepCodeChallenges\obj\Debug\net7.0\PrepCodeChallenges.csproj.CoreCompileInputs.cache
+C:\Users\Student-18\Documents\GitHub\PrepCodeChallenges\PrepCodeChallenges\bin\Debug\net7.0\PrepCodeChallenges.exe
+C:\Users\Student-18\Documents\GitHub\PrepCodeChallenges\PrepCodeChallenges\bin\Debug\net7.0\PrepCodeChallenges.deps.json
+C:\Users\Student-18\Documents\GitHub\PrepCodeChallenges\PrepCodeChallenges\bin\Debug\net7.0\PrepCodeChallenges.runtimeconfig.json
+C:\Users\Student-18\Documents\GitHub\PrepCodeChallenges\PrepCodeChallenges\bin\Debug\net7.0\PrepCodeChallenges.dll
+C:\Users\Student-18\Documents\GitHub\PrepCodeChallenges\PrepCodeChallenges\bin\Debug\net7.0\PrepCodeChallenges.pdb
+C:\Users\Student-18\Documents\GitHub\PrepCodeChallenges\PrepCodeChallenges\obj\Debug\net7.0\PrepCodeChallenges.dll
+C:\Users\Student-18\Documents\GitHub\PrepCodeChallenges\PrepCodeChallenges\obj\Debug\net7.0\refint\PrepCodeChallenges.dll
+C:\Users\Student-18\Documents\GitHub\PrepCodeChallenges\PrepCodeChallenges\obj\Debug\net7.0\PrepCodeChallenges.pdb
+C:\Users\Student-18\Documents\GitHub\PrepCodeChallenges\PrepCodeChallenges\obj\Debug\net7.0\PrepCodeChallenges.genruntimeconfig.cache
+C:\Users\Student-18\Documents\GitHub\PrepCodeChallenges\PrepCodeChallenges\obj\Debug\net7.0\ref\PrepCodeChallenges.dll
